@@ -2,7 +2,7 @@
 
 A modern, responsive, and feature-rich personal portfolio website built with HTML5, CSS3, JavaScript (ES6+), and Bootstrap 5. This portfolio showcases professional experience, projects, skills, and achievements with stunning animations and interactive elements.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Portfolio+Website+Preview)
+![Portfolio Preview](https://yousryessam.github.io/Yousry_Essam.Portfolio/)
 
 ## ✨ Features
 
