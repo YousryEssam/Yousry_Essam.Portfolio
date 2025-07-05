@@ -52,7 +52,7 @@ function initThemeToggle() {
 
     // Set your image paths
     const lightThemeImage = 'assets/Yousry-light.JPG'; // replace with your actual path
-    const darkThemeImage = 'assets/Yousry-dark.jpg';   // replace with your actual path
+    const darkThemeImage = 'assets/Yousry.ITI.JPG';   // replace with your actual path
 
     // Check for saved theme preference or default to 'dark'
     const currentTheme = localStorage.getItem('theme') || 'dark';
