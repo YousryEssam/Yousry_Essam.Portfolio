@@ -8,6 +8,8 @@ let isDeleting = false;
 const typingTexts = [
     'Software Engineer',
     'Full-Stack Developer',
+    '.NET Developer',
+    'ITI Graduate',
     'Problem Solver',
     'Competitive Programmer'
 ];

@@ -329,7 +329,7 @@ body {
 
 /* ===== HERO SECTION ===== */
 .hero-section {
-  min-height: 100vh;
+  min-height: 105vh;
   display: flex;
   align-items: center;
   position: relative;
@@ -343,7 +343,7 @@ body {
 }
 
 .header-content {
-  margin-top: 4rem;
+  margin-top: 3rem;
 }
 
 .hero-background {
